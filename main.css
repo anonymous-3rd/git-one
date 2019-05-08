@@ -1,4 +1,6 @@
 body{
     font-size: 40px;
-    background: purple
+    background: purple;
+    padding: 40px;
+    margin: 20px;
 }
