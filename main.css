@@ -3,4 +3,6 @@ body{
     background: purple;
     padding: 40px;
     margin: 20px;
+    border: 10px solid green;
+
 }
